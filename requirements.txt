@@ -1,0 +1,15 @@
+# ===================================
+# Système Anti-Somnolence - Temps Réel
+# ===================================
+
+# Détection & Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.14
+numpy>=1.24.0
+
+# Alertes Audio
+pyttsx3>=2.90
+
+# Dashboard Web
+Flask>=3.0.0
+Flask-CORS>=4.0.0
